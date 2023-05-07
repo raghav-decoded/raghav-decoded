@@ -1,6 +1,3 @@
-<!-- # 💫 About Me:
-I'm just a guy who codes for fun!<br><br>
- -->
  <h1 align="center">Hello World👾</h1>
  
  <p align="center">
@@ -26,4 +23,3 @@ I'm just a guy who codes for fun!<br><br>
 ---
 [![](https://visitcount.itsvg.in/api?id=raghav-decoded&icon=2&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
