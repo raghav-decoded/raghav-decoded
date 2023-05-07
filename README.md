@@ -1,7 +1,7 @@
  <h1 align="center">Hello World👾</h1>
  
  <p align="center">
-    <img width="300" src="https://user-images.githubusercontent.com/50199745/236667716-f234a7bc-ac1d-45bc-86cd-e5e13017eb24.gif" alt="Raghav">
+    <img width="400" src="https://user-images.githubusercontent.com/50199745/236667716-f234a7bc-ac1d-45bc-86cd-e5e13017eb24.gif" alt="Raghav">
 </p>
  
 # 💻 Tech Stack:
